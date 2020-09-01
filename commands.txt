@@ -1,0 +1,13 @@
+npm init --yes
+
+npm install express body-parser --save
+
+// express is the server 
+// body perser is the middle-ware
+
+
+node server // To run the server
+
+npm install --save mongoose
+
+mongodb+srv://binduObritto:<password>@eventsdb.pwyod.mongodb.net/<dbname>?retryWrites=true&w=majority
