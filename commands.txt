@@ -11,3 +11,10 @@ node server // To run the server
 npm install --save mongoose
 
 mongodb+srv://binduObritto:<password>@eventsdb.pwyod.mongodb.net/<dbname>?retryWrites=true&w=majority
+
+npm install --save cors
+
+npm install jsonwebtoken --save
+
+ng g guard auth
+
